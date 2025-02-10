@@ -180,6 +180,8 @@ DocProject/Help/html
 
 # Click-Once directory
 publish/
+!publish/wwwroot/
+!bin/Release/net8.0/publish/
 
 # Publish Web Output
 *.[Pp]ublish.xml
